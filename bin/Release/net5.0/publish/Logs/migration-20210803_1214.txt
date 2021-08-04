@@ -1,0 +1,594 @@
+2021-08-03 12:14:56.959 +05:30 [INF] Data queried from source successfully
+2021-08-03 12:14:57.102 +05:30 [ERR] Error occured at 1 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.104 +05:30 [ERR] Error occured at 2 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.106 +05:30 [ERR] Error occured at 3 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.108 +05:30 [INF] Customer ICA Supermarket Medborgarplatsen with ID 4 registered to database successfully
+2021-08-03 12:14:57.109 +05:30 [ERR] Error occured at 5 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.111 +05:30 [INF] Customer ICA Maxi Toftanäs with ID 6 registered to database successfully
+2021-08-03 12:14:57.112 +05:30 [ERR] Error occured at 7 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.113 +05:30 [ERR] Error occured at 8 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.114 +05:30 [ERR] Error occured at 9 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.115 +05:30 [ERR] Error occured at 10 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.116 +05:30 [ERR] Error occured at 11 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.117 +05:30 [ERR] Error occured at 12 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.119 +05:30 [ERR] Error occured at 13 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.120 +05:30 [ERR] Error occured at 14 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.122 +05:30 [ERR] Error occured at 15 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.124 +05:30 [ERR] Error occured at 16 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.131 +05:30 [ERR] Error occured at 17 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.133 +05:30 [ERR] Error occured at 18 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.135 +05:30 [INF] Customer ICA Kvantum Sätra with ID 19 registered to database successfully
+2021-08-03 12:14:57.136 +05:30 [ERR] Error occured at 20 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.138 +05:30 [ERR] Error occured at 21 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.139 +05:30 [ERR] Error occured at 22 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.144 +05:30 [ERR] Error occured at 23 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.146 +05:30 [INF] Customer ICA Supermarket Telefonplan with ID 24 registered to database successfully
+2021-08-03 12:14:57.147 +05:30 [ERR] Error occured at 25 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.149 +05:30 [ERR] Error occured at 26 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.150 +05:30 [ERR] Error occured at 27 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.151 +05:30 [ERR] Error occured at 28 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.153 +05:30 [ERR] Error occured at 29 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.154 +05:30 [INF] Customer ICA Maxi Hudiksvall with ID 30 registered to database successfully
+2021-08-03 12:14:57.155 +05:30 [ERR] Error occured at 31 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.160 +05:30 [ERR] Error occured at 32 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.161 +05:30 [ERR] Error occured at 33 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.163 +05:30 [INF] Customer ICA Maxi Botkyrka with ID 34 registered to database successfully
+2021-08-03 12:14:57.164 +05:30 [ERR] Error occured at 35 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.165 +05:30 [INF] Customer ICA Maxi Erikslund with ID 36 registered to database successfully
+2021-08-03 12:14:57.166 +05:30 [ERR] Error occured at 37 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.168 +05:30 [INF] Customer ICA Maxi Sundsvall with ID 38 registered to database successfully
+2021-08-03 12:14:57.169 +05:30 [ERR] Error occured at 39 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.170 +05:30 [ERR] Error occured at 40 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.176 +05:30 [ERR] Error occured at 41 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.178 +05:30 [INF] Customer ICA Maxi Universitetet with ID 42 registered to database successfully
+2021-08-03 12:14:57.179 +05:30 [ERR] Error occured at 43 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.180 +05:30 [ERR] Error occured at 44 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.182 +05:30 [ERR] Error occured at 45 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.183 +05:30 [ERR] Error occured at 46 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.185 +05:30 [INF] Customer ICA Kvantum Liljeholmen with ID 47 registered to database successfully
+2021-08-03 12:14:57.186 +05:30 [INF] Customer ICA Kvantum Gränby with ID 48 registered to database successfully
+2021-08-03 12:14:57.187 +05:30 [ERR] Error occured at 49 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.191 +05:30 [INF] Customer ICA Kvantum Hjertberg with ID 50 registered to database successfully
+2021-08-03 12:14:57.192 +05:30 [INF] Customer Demo PEPA with ID 51 registered to database successfully
+2021-08-03 12:14:57.193 +05:30 [ERR] Error occured at 52 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.195 +05:30 [ERR] Error occured at 53 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.196 +05:30 [ERR] Error occured at 54 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.198 +05:30 [INF] Customer Almi Företagspartner Mälardalen AB with ID 55 registered to database successfully
+2021-08-03 12:14:57.199 +05:30 [ERR] Error occured at 56 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.201 +05:30 [INF] Customer ICA Maxi Boglundsängen with ID 57 registered to database successfully
+2021-08-03 12:14:57.202 +05:30 [INF] Customer Great Security Sverige AB with ID 58 registered to database successfully
+2021-08-03 12:14:57.203 +05:30 [ERR] Error occured at 59 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.208 +05:30 [ERR] Error occured at 60 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.211 +05:30 [INF] Customer ICA Kvantum Lidingö with ID 61 registered to database successfully
+2021-08-03 12:14:57.212 +05:30 [ERR] Error occured at 62 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.214 +05:30 [ERR] Error occured at 63 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.215 +05:30 [ERR] Error occured at 64 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.217 +05:30 [ERR] Error occured at 65 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.218 +05:30 [ERR] Error occured at 66 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.222 +05:30 [INF] Customer ICA Kvantum Mirum with ID 67 registered to database successfully
+2021-08-03 12:14:57.223 +05:30 [ERR] Error occured at 68 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.225 +05:30 [INF] Customer ICA Kvantum Åkrahallen with ID 69 registered to database successfully
+2021-08-03 12:14:57.226 +05:30 [ERR] Error occured at 70 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.227 +05:30 [INF] Customer ICA Maxi Växjö with ID 71 registered to database successfully
+2021-08-03 12:14:57.228 +05:30 [ERR] Error occured at 72 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.230 +05:30 [ERR] Error occured at 73 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.231 +05:30 [INF] Customer ICA Maxi Eskilstuna with ID 74 registered to database successfully
+2021-08-03 12:14:57.232 +05:30 [ERR] Error occured at 75 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.233 +05:30 [INF] Customer ICA Supermarket Fisksätra with ID 76 registered to database successfully
+2021-08-03 12:14:57.234 +05:30 [INF] Customer ICA Kvantum Hajen with ID 77 registered to database successfully
+2021-08-03 12:14:57.239 +05:30 [ERR] Error occured at 78 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.240 +05:30 [INF] Customer Demo CALO with ID 79 registered to database successfully
+2021-08-03 12:14:57.242 +05:30 [INF] Customer ICA Supermarket Hertsötorget with ID 80 registered to database successfully
+2021-08-03 12:14:57.243 +05:30 [ERR] Error occured at 81 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.244 +05:30 [ERR] Error occured at 82 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.245 +05:30 [ERR] Error occured at 83 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.247 +05:30 [ERR] Error occured at 84 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.248 +05:30 [INF] Customer ICA Supermarket Luthagens Livs with ID 85 registered to database successfully
+2021-08-03 12:14:57.249 +05:30 [ERR] Error occured at 86 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.253 +05:30 [ERR] Error occured at 87 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.255 +05:30 [ERR] Error occured at 88 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.256 +05:30 [ERR] Error occured at 89 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.258 +05:30 [ERR] Error occured at 90 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.260 +05:30 [INF] Customer Leksand Resort with ID 91 registered to database successfully
+2021-08-03 12:14:57.261 +05:30 [INF] Customer Elma Group AB with ID 92 registered to database successfully
+2021-08-03 12:14:57.262 +05:30 [INF] Customer ICA Maxi Karlskoga with ID 93 registered to database successfully
+2021-08-03 12:14:57.263 +05:30 [ERR] Error occured at 94 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.264 +05:30 [ERR] Error occured at 95 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.268 +05:30 [ERR] Error occured at 96 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.270 +05:30 [ERR] Error occured at 97 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.272 +05:30 [ERR] Error occured at 98 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.273 +05:30 [ERR] Error occured at 99 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.275 +05:30 [INF] Customer ICA Kvantum Skövde with ID 100 registered to database successfully
+2021-08-03 12:14:57.276 +05:30 [INF] Customer ICA Maxi Bålsta with ID 101 registered to database successfully
+2021-08-03 12:14:57.278 +05:30 [ERR] Error occured at 102 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.279 +05:30 [ERR] Error occured at 103 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.280 +05:30 [INF] Customer ICA Maxi Skellefteå with ID 104 registered to database successfully
+2021-08-03 12:14:57.284 +05:30 [INF] Customer Lindells cykel- och sportaffär with ID 105 registered to database successfully
+2021-08-03 12:14:57.285 +05:30 [ERR] Error occured at 106 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.287 +05:30 [ERR] Error occured at 107 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.288 +05:30 [ERR] Error occured at 108 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.290 +05:30 [ERR] Error occured at 109 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.291 +05:30 [INF] Customer ICA Maxi Vasa Handelsplats with ID 110 registered to database successfully
+2021-08-03 12:14:57.292 +05:30 [ERR] Error occured at 111 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.294 +05:30 [ERR] Error occured at 112 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.295 +05:30 [ERR] Error occured at 113 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.297 +05:30 [ERR] Error occured at 114 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.303 +05:30 [INF] Customer ICA Supermarket Hägerstensåsen with ID 115 registered to database successfully
+2021-08-03 12:14:57.304 +05:30 [ERR] Error occured at 116 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.306 +05:30 [INF] Customer Parken Zoo with ID 117 registered to database successfully
+2021-08-03 12:14:57.307 +05:30 [INF] Customer ICA Kvantum Sannegården with ID 118 registered to database successfully
+2021-08-03 12:14:57.308 +05:30 [ERR] Error occured at 119 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.310 +05:30 [ERR] Error occured at 120 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.311 +05:30 [ERR] Error occured at 124 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.313 +05:30 [ERR] Error occured at 128 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.317 +05:30 [ERR] Error occured at 135 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.319 +05:30 [ERR] Error occured at 136 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.321 +05:30 [INF] Customer ICA Nära Norrviken with ID 137 registered to database successfully
+2021-08-03 12:14:57.322 +05:30 [INF] Customer ICA Kvantum Strömstad with ID 138 registered to database successfully
+2021-08-03 12:14:57.323 +05:30 [INF] Customer ICA Maxi Lindhagen with ID 139 registered to database successfully
+2021-08-03 12:14:57.326 +05:30 [ERR] Error occured at 140 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.327 +05:30 [INF] Customer ICA kvantum Mariehem with ID 143 registered to database successfully
+2021-08-03 12:14:57.328 +05:30 [ERR] Error occured at 144 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.335 +05:30 [INF] Customer ICA Nära Mårtensson with ID 145 registered to database successfully
+2021-08-03 12:14:57.336 +05:30 [ERR] Error occured at 146 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.338 +05:30 [INF] Customer ICA Maxi Flygstaden with ID 147 registered to database successfully
+2021-08-03 12:14:57.339 +05:30 [INF] Customer Almö Livs with ID 150 registered to database successfully
+2021-08-03 12:14:57.340 +05:30 [INF] Customer Salt & Sill with ID 151 registered to database successfully
+2021-08-03 12:14:57.340 +05:30 [INF] Customer Almö Kvarterskrog with ID 152 registered to database successfully
+2021-08-03 12:14:57.342 +05:30 [INF] Customer Salt & Co Bohuslän AB with ID 153 registered to database successfully
+2021-08-03 12:14:57.343 +05:30 [ERR] Error occured at 154 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.344 +05:30 [INF] Customer ICA Maxi Nyköping with ID 157 registered to database successfully
+2021-08-03 12:14:57.349 +05:30 [ERR] Error occured at 158 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.351 +05:30 [INF] Customer HYR-IN with ID 159 registered to database successfully
+2021-08-03 12:14:57.353 +05:30 [ERR] Error occured at 161 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.354 +05:30 [INF] Customer Great Security - SYD with ID 162 registered to database successfully
+2021-08-03 12:14:57.355 +05:30 [INF] Customer Great Security - VÄST with ID 163 registered to database successfully
+2021-08-03 12:14:57.356 +05:30 [INF] Customer Great Security - NORD with ID 164 registered to database successfully
+2021-08-03 12:14:57.357 +05:30 [INF] Customer Great Security - MITT with ID 165 registered to database successfully
+2021-08-03 12:14:57.359 +05:30 [INF] Customer Great Security - Retail with ID 166 registered to database successfully
+2021-08-03 12:14:57.360 +05:30 [INF] Customer Great Security - SOLUTION with ID 167 registered to database successfully
+2021-08-03 12:14:57.364 +05:30 [INF] Customer Great Security - VISION with ID 169 registered to database successfully
+2021-08-03 12:14:57.365 +05:30 [ERR] Error occured at 173 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.367 +05:30 [ERR] Error occured at 174 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.369 +05:30 [ERR] Error occured at 175 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.370 +05:30 [INF] Customer Elbogen Electric with ID 176 registered to database successfully
+2021-08-03 12:14:57.371 +05:30 [INF] Customer Addsell Sverige AB with ID 177 registered to database successfully
+2021-08-03 12:14:57.372 +05:30 [ERR] Error occured at 178 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.374 +05:30 [ERR] Error occured at 179 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.379 +05:30 [INF] Customer Marknad & Försäljning Entreprenad - Fältsälj with ID 180 registered to database successfully
+2021-08-03 12:14:57.380 +05:30 [INF] Customer Marknad & Försäljning Entreprenad - Innesälj/Teknisk Säljare with ID 181 registered to database successfully
+2021-08-03 12:14:57.381 +05:30 [INF] Customer Marknad & Försäljning - Entreprenad - Projektledning with ID 182 registered to database successfully
+2021-08-03 12:14:57.382 +05:30 [INF] Customer Operations OTL - Konstruktion - Konstruktör with ID 183 registered to database successfully
+2021-08-03 12:14:57.383 +05:30 [INF] Customer Operations OTL - Service- & Platsmontage - Servicetekniker/Platsmontör with ID 184 registered to database successfully
+2021-08-03 12:14:57.384 +05:30 [INF] Customer ICA Maxi Uddevalla with ID 185 registered to database successfully
+2021-08-03 12:14:57.385 +05:30 [INF] Customer ICA Supermarket Kisa with ID 187 registered to database successfully
+2021-08-03 12:14:57.386 +05:30 [INF] Customer ICA Maxi Ronneby with ID 188 registered to database successfully
+2021-08-03 12:14:57.387 +05:30 [ERR] Error occured at 190 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.389 +05:30 [ERR] Error occured at 194 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.390 +05:30 [ERR] Error occured at 195 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.394 +05:30 [INF] Customer Renevatio AB with ID 196 registered to database successfully
+2021-08-03 12:14:57.395 +05:30 [INF] Customer Länsförsäkringar Fastighetsförmedling  with ID 197 registered to database successfully
+2021-08-03 12:14:57.397 +05:30 [ERR] Error occured at 199 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.398 +05:30 [ERR] Error occured at 200 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.400 +05:30 [ERR] Error occured at 201 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.401 +05:30 [INF] Customer TeleRadio AB with ID 204 registered to database successfully
+2021-08-03 12:14:57.402 +05:30 [INF] Customer Gösta Jacobsson AB with ID 205 registered to database successfully
+2021-08-03 12:14:57.403 +05:30 [INF] Customer Gustavsvik Resorts AB with ID 206 registered to database successfully
+2021-08-03 12:14:57.404 +05:30 [INF] Customer ICA Nära Norrmalm with ID 208 registered to database successfully
+2021-08-03 12:14:57.405 +05:30 [INF] Customer IdeaBits Test Dulan  with ID 209 registered to database successfully
+2021-08-03 12:14:57.405 +05:30 [INF] Customer M/S Vindhem with ID 210 registered to database successfully
+2021-08-03 12:14:57.407 +05:30 [ERR] Error occured at 211 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.411 +05:30 [INF] Customer Kontoret M/S Vindhem with ID 212 registered to database successfully
+2021-08-03 12:14:57.413 +05:30 [INF] Customer Test ABC with ID 214 registered to database successfully
+2021-08-03 12:14:57.414 +05:30 [ERR] Error occured at 215 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.415 +05:30 [INF] Customer Elbogen Electric AB with ID 216 registered to database successfully
+2021-08-03 12:14:57.416 +05:30 [INF] Customer RA Bygg AB with ID 217 registered to database successfully
+2021-08-03 12:14:57.417 +05:30 [ERR] Error occured at 219 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.418 +05:30 [INF] Customer Yobber AB with ID 220 registered to database successfully
+2021-08-03 12:14:57.419 +05:30 [ERR] Error occured at 227 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.421 +05:30 [ERR] Error occured at 245 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.422 +05:30 [INF] Customer GBP Ergonomics AB with ID 246 registered to database successfully
+2021-08-03 12:14:57.427 +05:30 [INF] Customer Koafför & Barber i Örebro AB with ID 247 registered to database successfully
+2021-08-03 12:14:57.428 +05:30 [INF] Customer ICA Supermarket Luleå Centrum with ID 248 registered to database successfully
+2021-08-03 12:14:57.429 +05:30 [INF] Customer British Schools AB with ID 249 registered to database successfully
+2021-08-03 12:14:57.430 +05:30 [INF] Customer British Mini Schools AB with ID 250 registered to database successfully
+2021-08-03 12:14:57.431 +05:30 [ERR] Error occured at 251 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.433 +05:30 [INF] Customer Tyresö Centrum with ID 252 registered to database successfully
+2021-08-03 12:14:57.434 +05:30 [INF] Customer Disab AB with ID 253 registered to database successfully
+2021-08-03 12:14:57.435 +05:30 [INF] Customer Bunches by Blomrum with ID 254 registered to database successfully
+2021-08-03 12:14:57.436 +05:30 [INF] Customer Spektrumare AB with ID 255 registered to database successfully
+2021-08-03 12:14:57.437 +05:30 [ERR] Error occured at 256 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.438 +05:30 [ERR] Error occured at 257 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.444 +05:30 [ERR] Error occured at 258 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.446 +05:30 [ERR] Error occured at 259 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.448 +05:30 [INF] Customer Skrotfrag Aktiebolag with ID 260 registered to database successfully
+2021-08-03 12:14:57.449 +05:30 [INF] Customer Zollner Group with ID 261 registered to database successfully
+2021-08-03 12:14:57.450 +05:30 [ERR] Error occured at 262 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.452 +05:30 [INF] Customer Profilservice.se with ID 263 registered to database successfully
+2021-08-03 12:14:57.453 +05:30 [INF] Customer Nordic Souvenir with ID 264 registered to database successfully
+2021-08-03 12:14:57.454 +05:30 [ERR] Error occured at 265 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.459 +05:30 [ERR] Error occured at 266 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.461 +05:30 [INF] Customer test-ideabits with ID 267 registered to database successfully
+2021-08-03 12:14:57.462 +05:30 [INF] Customer Disab Tella AB with ID 268 registered to database successfully
+2021-08-03 12:14:57.463 +05:30 [ERR] Error occured at 269 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.465 +05:30 [ERR] Error occured at 270 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.466 +05:30 [ERR] Error occured at 271 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.468 +05:30 [INF] Customer ICA Nära Glansen with ID 272 registered to database successfully
+2021-08-03 12:14:57.469 +05:30 [INF] Customer Fazer Lifestyle Foods with ID 273 registered to database successfully
+2021-08-03 12:14:57.473 +05:30 [INF] Customer Hemköp Göteborg Vasagatan with ID 275 registered to database successfully
+2021-08-03 12:14:57.474 +05:30 [INF] Customer Gothia Revision with ID 276 registered to database successfully
+2021-08-03 12:14:57.475 +05:30 [ERR] Error occured at 277 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.477 +05:30 [INF] Customer Test Ideabits  with ID 278 registered to database successfully
+2021-08-03 12:14:57.478 +05:30 [INF] Customer Lokaltidningen Mitt i Direkt AB with ID 279 registered to database successfully
+2021-08-03 12:14:57.478 +05:30 [INF] Customer Energihem with ID 280 registered to database successfully
+2021-08-03 12:14:57.479 +05:30 [INF] Customer ICA Supermarket Degerfors with ID 283 registered to database successfully
+2021-08-03 12:14:57.480 +05:30 [ERR] Error occured at 284 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.482 +05:30 [INF] Customer ICA Nära Litshallen with ID 285 registered to database successfully
+2021-08-03 12:14:57.483 +05:30 [ERR] Error occured at 286 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.484 +05:30 [ERR] Error occured at 287 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.488 +05:30 [INF] Customer RMS Lagerinredningar AB with ID 288 registered to database successfully
+2021-08-03 12:14:57.489 +05:30 [INF] Customer Arkipelagen AB with ID 289 registered to database successfully
+2021-08-03 12:14:57.490 +05:30 [INF] Customer Ideabits with ID 290 registered to database successfully
+2021-08-03 12:14:57.492 +05:30 [ERR] Error occured at 291 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.493 +05:30 [INF] Customer ICA Nära Kneippen with ID 292 registered to database successfully
+2021-08-03 12:14:57.494 +05:30 [INF] Customer Test-Live new with ID 294 registered to database successfully
+2021-08-03 12:14:57.495 +05:30 [INF] Customer El och teleanläggningar (Great Security) with ID 295 registered to database successfully
+2021-08-03 12:14:57.496 +05:30 [ERR] Error occured at 296 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.498 +05:30 [INF] Customer Test 2-Live  with ID 297 registered to database successfully
+2021-08-03 12:14:57.499 +05:30 [INF] Customer Test3-Ideabits with ID 298 registered to database successfully
+2021-08-03 12:14:57.500 +05:30 [INF] Customer Södertörns friskola  with ID 299 registered to database successfully
+2021-08-03 12:14:57.503 +05:30 [INF] Customer ICA Nära Ryd with ID 300 registered to database successfully
+2021-08-03 12:14:57.504 +05:30 [INF] Customer ICA Kvantum Åkersberga with ID 301 registered to database successfully
+2021-08-03 12:14:57.505 +05:30 [INF] Customer ideabits with ID 302 registered to database successfully
+2021-08-03 12:14:57.506 +05:30 [INF] Customer test ideabits with ID 303 registered to database successfully
+2021-08-03 12:14:57.507 +05:30 [INF] Customer Subway Danderydsgatan with ID 304 registered to database successfully
+2021-08-03 12:14:57.509 +05:30 [INF] Customer Subway Tumba with ID 305 registered to database successfully
+2021-08-03 12:14:57.509 +05:30 [INF] Customer Subway Skärholmen with ID 306 registered to database successfully
+2021-08-03 12:14:57.510 +05:30 [INF] Customer Subway Kungens Kurva with ID 307 registered to database successfully
+2021-08-03 12:14:57.511 +05:30 [INF] Customer Subway Upplands Väsby Centrum with ID 308 registered to database successfully
+2021-08-03 12:14:57.512 +05:30 [INF] Customer Subway Slussen with ID 309 registered to database successfully
+2021-08-03 12:14:57.513 +05:30 [INF] Customer Subway Skanstull with ID 310 registered to database successfully
+2021-08-03 12:14:57.514 +05:30 [INF] Customer Subway Sickla Köpkvarter with ID 311 registered to database successfully
+2021-08-03 12:14:57.514 +05:30 [INF] Customer ASK Eskilstuna with ID 312 registered to database successfully
+2021-08-03 12:14:57.515 +05:30 [INF] Customer  Varvet Luleå with ID 313 registered to database successfully
+2021-08-03 12:14:57.519 +05:30 [INF] Customer ICA Supermarket Hofors with ID 315 registered to database successfully
+2021-08-03 12:14:57.520 +05:30 [ERR] Error occured at 316 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.523 +05:30 [INF] Customer ICA Maxi Stormarknad Kalmar with ID 317 registered to database successfully
+2021-08-03 12:14:57.524 +05:30 [INF] Customer ICA Supermarket Forshaga with ID 318 registered to database successfully
+2021-08-03 12:14:57.525 +05:30 [INF] Customer ICA Nära Bara with ID 319 registered to database successfully
+2021-08-03 12:14:57.526 +05:30 [INF] Customer ICA Supermarket Trollbäcken  with ID 320 registered to database successfully
+2021-08-03 12:14:57.527 +05:30 [INF] Customer ICA Nära Torekov with ID 321 registered to database successfully
+2021-08-03 12:14:57.528 +05:30 [INF] Customer ICA Kvantum Säffle with ID 322 registered to database successfully
+2021-08-03 12:14:57.529 +05:30 [INF] Customer ICA Nära City with ID 323 registered to database successfully
+2021-08-03 12:14:57.530 +05:30 [ERR] Error occured at 324 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.531 +05:30 [INF] Customer ICA Nära Fyren with ID 325 registered to database successfully
+2021-08-03 12:14:57.535 +05:30 [INF] Customer ICA Nära Lugnvik with ID 326 registered to database successfully
+2021-08-03 12:14:57.536 +05:30 [ERR] Error occured at 327 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.537 +05:30 [INF] Customer Aquarapid with ID 328 registered to database successfully
+2021-08-03 12:14:57.538 +05:30 [INF] Customer ICA Nära Lappkärrsberget with ID 329 registered to database successfully
+2021-08-03 12:14:57.539 +05:30 [ERR] Error occured at 330 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.541 +05:30 [ERR] Error occured at 331 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.543 +05:30 [ERR] Error occured at 332 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.544 +05:30 [ERR] Error occured at 333 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.546 +05:30 [ERR] Error occured at 334 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.548 +05:30 [ERR] Error occured at 335 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.554 +05:30 [ERR] Error occured at 336 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.555 +05:30 [INF] Customer Maxi ICA Stormarknad Borås with ID 337 registered to database successfully
+2021-08-03 12:14:57.556 +05:30 [ERR] Error occured at 338 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.558 +05:30 [ERR] Error occured at 339 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.560 +05:30 [ERR] Error occured at 340 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.561 +05:30 [ERR] Error occured at 341 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.563 +05:30 [ERR] Error occured at 342 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.568 +05:30 [INF] Customer DEMO ANNO with ID 343 registered to database successfully
+2021-08-03 12:14:57.569 +05:30 [INF] Customer JAG Personlig Assistans AB with ID 344 registered to database successfully
+2021-08-03 12:14:57.570 +05:30 [INF] Customer Servicegrupp Jämlikhet with ID 345 registered to database successfully
+2021-08-03 12:14:57.571 +05:30 [INF] Customer Servicegrupp Assistans with ID 346 registered to database successfully
+2021-08-03 12:14:57.572 +05:30 [INF] Customer Servicegrupp Gemenskap with ID 347 registered to database successfully
+2021-08-03 12:14:57.573 +05:30 [ERR] Error occured at 349 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.576 +05:30 [ERR] Error occured at 350 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.577 +05:30 [INF] Customer ICA Nära Sörbyhallen with ID 351 registered to database successfully
+2021-08-03 12:14:57.578 +05:30 [INF] Customer ICA Kvantum Stenungsund with ID 352 registered to database successfully
+2021-08-03 12:14:57.581 +05:30 [INF] Customer ICA Kvantum Farsta with ID 353 registered to database successfully
+2021-08-03 12:14:57.582 +05:30 [INF] Customer Makilrathy with ID 355 registered to database successfully
+2021-08-03 12:14:57.583 +05:30 [INF] Customer Test-Live with ID 356 registered to database successfully
+2021-08-03 12:14:57.584 +05:30 [INF] Customer ICA Supermarket Wallinders with ID 357 registered to database successfully
+2021-08-03 12:14:57.585 +05:30 [INF] Customer Evinrude with ID 358 registered to database successfully
+2021-08-03 12:14:57.586 +05:30 [INF] Customer ICA Supermarket Björksätra with ID 359 registered to database successfully
+2021-08-03 12:14:57.587 +05:30 [INF] Customer ICA Kvantum Klockaretorpet with ID 360 registered to database successfully
+2021-08-03 12:14:57.588 +05:30 [ERR] Error occured at 361 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.589 +05:30 [INF] Customer ICA Nära Strömmen with ID 362 registered to database successfully
+2021-08-03 12:14:57.590 +05:30 [ERR] Error occured at 363 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.592 +05:30 [INF] Customer ICA Nära Södermalm with ID 364 registered to database successfully
+2021-08-03 12:14:57.593 +05:30 [INF] Customer ICA Supermarket Servett with ID 365 registered to database successfully
+2021-08-03 12:14:57.594 +05:30 [INF] Customer ICA Supermarket Åre with ID 366 registered to database successfully
+2021-08-03 12:14:57.597 +05:30 [INF] Customer ICA Supermarket Matpunkten with ID 367 registered to database successfully
+2021-08-03 12:14:57.598 +05:30 [INF] Customer ICA Nära Älvsjö with ID 368 registered to database successfully
+2021-08-03 12:14:57.599 +05:30 [INF] Customer Östras Bröd with ID 369 registered to database successfully
+2021-08-03 12:14:57.600 +05:30 [INF] Customer DEMO JUEN with ID 370 registered to database successfully
+2021-08-03 12:14:57.601 +05:30 [INF] Customer Eskilstuna Näringslivsavdelningen with ID 372 registered to database successfully
+2021-08-03 12:14:57.602 +05:30 [ERR] Error occured at 374 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.603 +05:30 [INF] Customer ICA Maxi Barkarby with ID 375 registered to database successfully
+2021-08-03 12:14:57.604 +05:30 [INF] Customer ICA Kvantum Kungsbacka with ID 376 registered to database successfully
+2021-08-03 12:14:57.605 +05:30 [ERR] Error occured at 377 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.606 +05:30 [INF] Customer Scandic Pelagic with ID 378 registered to database successfully
+2021-08-03 12:14:57.607 +05:30 [INF] Customer pickme with ID 379 registered to database successfully
+2021-08-03 12:14:57.608 +05:30 [INF] Customer Uber with ID 380 registered to database successfully
+2021-08-03 12:14:57.609 +05:30 [INF] Customer Yobber Boosta with ID 381 registered to database successfully
+2021-08-03 12:14:57.613 +05:30 [INF] Customer Yobber Apotea with ID 382 registered to database successfully
+2021-08-03 12:14:57.614 +05:30 [INF] Customer IdeaBits-TEST with ID 384 registered to database successfully
+2021-08-03 12:14:57.615 +05:30 [INF] Customer Yobber Boosta Stockholm with ID 385 registered to database successfully
+2021-08-03 12:14:57.615 +05:30 [INF] Customer Yobber Boosta Göteborg with ID 386 registered to database successfully
+2021-08-03 12:14:57.616 +05:30 [INF] Customer Yobber Boosta Malmö with ID 387 registered to database successfully
+2021-08-03 12:14:57.617 +05:30 [INF] Customer Test Ideabits Live with ID 388 registered to database successfully
+2021-08-03 12:14:57.618 +05:30 [ERR] Error occured at 389 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.619 +05:30 [INF] Customer ICA Nära Brottbyhallen with ID 390 registered to database successfully
+2021-08-03 12:14:57.620 +05:30 [INF] Customer Yobber Boosta Uppsala with ID 391 registered to database successfully
+2021-08-03 12:14:57.621 +05:30 [INF] Customer Yobber Boosta Umeå with ID 392 registered to database successfully
+2021-08-03 12:14:57.622 +05:30 [INF] Customer ICA Kvantum Helsingborg with ID 393 registered to database successfully
+2021-08-03 12:14:57.623 +05:30 [INF] Customer Yobber Boosta Norrköping with ID 394 registered to database successfully
+2021-08-03 12:14:57.624 +05:30 [INF] Customer Test Ideabits Live - Sub 1 with ID 395 registered to database successfully
+2021-08-03 12:14:57.625 +05:30 [INF] Customer IdeaBitsNew with ID 396 registered to database successfully
+2021-08-03 12:14:57.629 +05:30 [ERR] Error occured at 397 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.631 +05:30 [ERR] Error occured at 398 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.632 +05:30 [INF] Customer ICA Supermarket Kvarnen, Huddinge with ID 399 registered to database successfully
+2021-08-03 12:14:57.633 +05:30 [INF] Customer 24Storage with ID 400 registered to database successfully
+2021-08-03 12:14:57.634 +05:30 [INF] Customer ICA Kvantum Mall of Scandinavia with ID 401 registered to database successfully
+2021-08-03 12:14:57.635 +05:30 [INF] Customer Test Ideabits Live - Sub 2 with ID 402 registered to database successfully
+2021-08-03 12:14:57.635 +05:30 [INF] Customer Hemköp Kolbäck with ID 404 registered to database successfully
+2021-08-03 12:14:57.636 +05:30 [INF] Customer ICA Supermarket Hagsätra with ID 405 registered to database successfully
+2021-08-03 12:14:57.637 +05:30 [INF] Customer DEMO MIBO with ID 406 registered to database successfully
+2021-08-03 12:14:57.638 +05:30 [INF] Customer Test Ideabits Live - Sub 003 with ID 407 registered to database successfully
+2021-08-03 12:14:57.639 +05:30 [INF] Customer Vindico Security AB with ID 408 registered to database successfully
+2021-08-03 12:14:57.640 +05:30 [INF] Customer Winningtemp AB with ID 410 registered to database successfully
+2021-08-03 12:14:57.640 +05:30 [INF] Customer Berlex AB with ID 411 registered to database successfully
+2021-08-03 12:14:57.642 +05:30 [INF] Customer Test Ideabits Live - Sub 4 with ID 412 registered to database successfully
+2021-08-03 12:14:57.646 +05:30 [INF] Customer British Schools HK with ID 414 registered to database successfully
+2021-08-03 12:14:57.647 +05:30 [INF] Customer ICA Nära Birgersson with ID 415 registered to database successfully
+2021-08-03 12:14:57.648 +05:30 [INF] Customer BIKBOK Tuna Park with ID 420 registered to database successfully
+2021-08-03 12:14:57.648 +05:30 [INF] Customer Hemköp Avesta Skogsbo with ID 421 registered to database successfully
+2021-08-03 12:14:57.649 +05:30 [INF] Customer ICA Supermarket Torghallen with ID 422 registered to database successfully
+2021-08-03 12:14:57.650 +05:30 [INF] Customer Sojas ICA-hall Vretstorp with ID 423 registered to database successfully
+2021-08-03 12:14:57.651 +05:30 [INF] Customer ICA Jouren Askersund with ID 424 registered to database successfully
+2021-08-03 12:14:57.652 +05:30 [ERR] Error occured at 425 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.654 +05:30 [INF] Customer Assistansbolaget Rescue Europe AB with ID 435 registered to database successfully
+2021-08-03 12:14:57.655 +05:30 [INF] Customer ICA Supermarket Skelleftehamn with ID 436 registered to database successfully
+2021-08-03 12:14:57.656 +05:30 [INF] Customer Hemköp Göteborg Nordenskiöldsgatan with ID 438 registered to database successfully
+2021-08-03 12:14:57.657 +05:30 [INF] Customer ICA Kvantum Signalen with ID 441 registered to database successfully
+2021-08-03 12:14:57.662 +05:30 [INF] Customer ICA Supermarket Esplanad with ID 442 registered to database successfully
+2021-08-03 12:14:57.664 +05:30 [INF] Customer ICA Nära Ribersborg with ID 443 registered to database successfully
+2021-08-03 12:14:57.665 +05:30 [INF] Customer ICA Nära Riksgränsen with ID 444 registered to database successfully
+2021-08-03 12:14:57.666 +05:30 [INF] Customer Rekarnegymnasiet, Eskilstuna kommun with ID 445 registered to database successfully
+2021-08-03 12:14:57.667 +05:30 [INF] Customer ICA Supermarket Kungsholmstorg with ID 446 registered to database successfully
+2021-08-03 12:14:57.668 +05:30 [INF] Customer Ludvig & Co with ID 447 registered to database successfully
+2021-08-03 12:14:57.669 +05:30 [INF] Customer ICA Maxi Västervik with ID 448 registered to database successfully
+2021-08-03 12:14:57.670 +05:30 [INF] Customer BizMaker with ID 449 registered to database successfully
+2021-08-03 12:14:57.671 +05:30 [INF] Customer Lås & Säkerhet i Örebro AB with ID 450 registered to database successfully
+2021-08-03 12:14:57.672 +05:30 [ERR] Error occured at 451 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.674 +05:30 [INF] Customer DEMO CV with ID 452 registered to database successfully
+2021-08-03 12:14:57.677 +05:30 [INF] Customer Toco i Väst AB with ID 453 registered to database successfully
+2021-08-03 12:14:57.678 +05:30 [INF] Customer Skyltstället with ID 454 registered to database successfully
+2021-08-03 12:14:57.680 +05:30 [INF] Customer ICA Kvantum Flygfyren with ID 455 registered to database successfully
+2021-08-03 12:14:57.681 +05:30 [INF] Customer ICA Supermarket Haga Centrum with ID 456 registered to database successfully
+2021-08-03 12:14:57.682 +05:30 [INF] Customer Frösökompaniet AB with ID 457 registered to database successfully
+2021-08-03 12:14:57.683 +05:30 [INF] Customer Teleperformance with ID 458 registered to database successfully
+2021-08-03 12:14:57.684 +05:30 [INF] Customer DEMO PS with ID 459 registered to database successfully
+2021-08-03 12:14:57.685 +05:30 [INF] Customer Test with ID 460 registered to database successfully
+2021-08-03 12:14:57.686 +05:30 [INF] Customer ICA Kvantum Nybro with ID 461 registered to database successfully
+2021-08-03 12:14:57.686 +05:30 [INF] Customer Recover with ID 462 registered to database successfully
+2021-08-03 12:14:57.687 +05:30 [INF] Customer Digitalera with ID 463 registered to database successfully
+2021-08-03 12:14:57.688 +05:30 [INF] Customer  ICA Kvantum Tyresö with ID 464 registered to database successfully
+2021-08-03 12:14:57.689 +05:30 [INF] Customer ICA Nära Träffen with ID 465 registered to database successfully
+2021-08-03 12:14:57.692 +05:30 [INF] Customer Grekiska grill & bar with ID 466 registered to database successfully
+2021-08-03 12:14:57.693 +05:30 [INF] Customer CauseyWestling with ID 467 registered to database successfully
+2021-08-03 12:14:57.694 +05:30 [ERR] Error occured at 468 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.696 +05:30 [INF] Customer Mälarvillan AB with ID 469 registered to database successfully
+2021-08-03 12:14:57.697 +05:30 [INF] Customer DEMO REEK with ID 470 registered to database successfully
+2021-08-03 12:14:57.698 +05:30 [ERR] Error occured at 471 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.699 +05:30 [INF] Customer PMC El with ID 472 registered to database successfully
+2021-08-03 12:14:57.700 +05:30 [INF] Customer ICA Nära Ålem with ID 473 registered to database successfully
+2021-08-03 12:14:57.702 +05:30 [INF] Customer ICA Nära Sellnäs with ID 474 registered to database successfully
+2021-08-03 12:14:57.703 +05:30 [INF] Customer ICA Kvantum Uddevalla with ID 475 registered to database successfully
+2021-08-03 12:14:57.704 +05:30 [INF] Customer ICA Nära Sandviken  with ID 476 registered to database successfully
+2021-08-03 12:14:57.705 +05:30 [INF] Customer Bunchery by Blomrum with ID 478 registered to database successfully
+2021-08-03 12:14:57.709 +05:30 [INF] Customer ICA Kvantum Ekängen with ID 479 registered to database successfully
+2021-08-03 12:14:57.710 +05:30 [INF] Customer Håkan Serrander Bil AB with ID 480 registered to database successfully
+2021-08-03 12:14:57.711 +05:30 [INF] Customer ICA Maxi Vetlanda with ID 481 registered to database successfully
+2021-08-03 12:14:57.711 +05:30 [INF] Customer ICA Supermarket Arboga with ID 482 registered to database successfully
+2021-08-03 12:14:57.712 +05:30 [INF] Customer ICA Supermarket Cityhallen with ID 483 registered to database successfully
+2021-08-03 12:14:57.713 +05:30 [ERR] Error occured at 484 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.715 +05:30 [INF] Customer REDO & YOBBERS KANDIDATREGISTER with ID 485 registered to database successfully
+2021-08-03 12:14:57.716 +05:30 [INF] Customer Stiga Sports AB with ID 486 registered to database successfully
+2021-08-03 12:14:57.716 +05:30 [INF] Customer ICA Nära Bärkehallen with ID 487 registered to database successfully
+2021-08-03 12:14:57.717 +05:30 [INF] Customer Matvärlden Veddesta with ID 488 registered to database successfully
+2021-08-03 12:14:57.718 +05:30 [INF] Customer Leine & Linde AB with ID 489 registered to database successfully
+2021-08-03 12:14:57.719 +05:30 [INF] Customer ICA Supermarket Högdalen with ID 490 registered to database successfully
+2021-08-03 12:14:57.720 +05:30 [INF] Customer Matvärlden Vällingby with ID 491 registered to database successfully
+2021-08-03 12:14:57.721 +05:30 [ERR] Error occured at 492 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.726 +05:30 [INF] Customer Hyrtab with ID 493 registered to database successfully
+2021-08-03 12:14:57.726 +05:30 [INF] Customer ICA Nära Söråker with ID 494 registered to database successfully
+2021-08-03 12:14:57.727 +05:30 [INF] Customer ICA Supermarket Alvikstorg with ID 495 registered to database successfully
+2021-08-03 12:14:57.728 +05:30 [INF] Customer Safetytech AB with ID 496 registered to database successfully
+2021-08-03 12:14:57.729 +05:30 [INF] Customer ICA Kvantum Vänersborg  with ID 497 registered to database successfully
+2021-08-03 12:14:57.730 +05:30 [INF] Customer ICA Maxi Värmdö with ID 498 registered to database successfully
+2021-08-03 12:14:57.730 +05:30 [INF] Customer Bon Cena with ID 499 registered to database successfully
+2021-08-03 12:14:57.731 +05:30 [INF] Customer ICA Supermarket Sigtuna with ID 500 registered to database successfully
+2021-08-03 12:14:57.732 +05:30 [INF] Customer ICA Supermarket Boström with ID 501 registered to database successfully
+2021-08-03 12:14:57.733 +05:30 [INF] Customer ICA Supermarket Matmor with ID 502 registered to database successfully
+2021-08-03 12:14:57.734 +05:30 [INF] Customer ICA Kvantum Oxelösund with ID 503 registered to database successfully
+2021-08-03 12:14:57.734 +05:30 [INF] Customer Dilshani Test Company with ID 504 registered to database successfully
+2021-08-03 12:14:57.735 +05:30 [INF] Customer ICA Supermarket Ulricehamn with ID 505 registered to database successfully
+2021-08-03 12:14:57.736 +05:30 [ERR] Error occured at 506 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.740 +05:30 [ERR] Error occured at 507 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:14:57.742 +05:30 [INF] Customer ICA Supermarket Torsås  with ID 508 registered to database successfully
+2021-08-03 12:14:57.743 +05:30 [INF] Customer Gordon Services AB with ID 509 registered to database successfully
+2021-08-03 12:14:57.744 +05:30 [INF] Customer ICA Maxi Kristinehamn with ID 510 registered to database successfully
+2021-08-03 12:14:57.744 +05:30 [INF] Customer Midroc Electro AB with ID 511 registered to database successfully
+2021-08-03 12:14:57.745 +05:30 [INF] Customer Swedstyle AB with ID 512 registered to database successfully
+2021-08-03 12:14:57.746 +05:30 [INF] Customer Swedstyle AB i Vaggeryd with ID 513 registered to database successfully
+2021-08-03 12:14:57.747 +05:30 [INF] Customer Swedstyle AB i Ekenässjön with ID 514 registered to database successfully
+2021-08-03 12:14:57.747 +05:30 [INF] Customer ICA Supermarket Sveg with ID 515 registered to database successfully
+2021-08-03 12:14:57.748 +05:30 [INF] Customer ICA Maxi Alingsås with ID 516 registered to database successfully
+2021-08-03 12:14:57.749 +05:30 [INF] Customer Tunafastigheter i Eskilstuna AB with ID 517 registered to database successfully
+2021-08-03 12:14:57.750 +05:30 [INF] Customer ICA Kvantum Värtan with ID 518 registered to database successfully
+2021-08-03 12:14:57.751 +05:30 [INF] Customer Hemköp Stockholm Hornstull with ID 519 registered to database successfully
+2021-08-03 12:14:57.751 +05:30 [INF] Customer ICA Kvantum Södermalm with ID 520 registered to database successfully
+2021-08-03 12:14:57.756 +05:30 [INF] Customer Hemköp Stockholm Sjövikshallen with ID 521 registered to database successfully
+2021-08-03 12:14:57.757 +05:30 [INF] Customer Calix/Preciform  with ID 522 registered to database successfully

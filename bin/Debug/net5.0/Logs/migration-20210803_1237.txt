@@ -1,0 +1,9 @@
+2021-08-03 12:37:22.668 +05:30 [INF] Data queried from source successfully
+2021-08-03 12:37:22.809 +05:30 [ERR] Error occured with Message: Incorrect syntax near the keyword 'FROM'.
+2021-08-03 12:37:55.830 +05:30 [INF] Data queried from source successfully
+2021-08-03 12:39:39.767 +05:30 [ERR] Error occured at 1 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:40:29.681 +05:30 [ERR] Error occured at 2 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.
+2021-08-03 12:41:32.396 +05:30 [ERR] Error occured at 3 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Customers_UserEmployers_ContactId". The conflict occurred in database "Yobber", table "dbo.UserEmployers", column 'UserId'.
+The statement has been terminated.

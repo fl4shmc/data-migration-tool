@@ -1,0 +1,16 @@
+2021-08-04 17:04:14.456 +05:30 [INF] Data queried from source successfully
+2021-08-04 17:04:14.625 +05:30 [INF] Internal User 6c9001ee-f752-4458-95b9-1d642bf33627 with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.627 +05:30 [INF] Internal User bac00d92-2914-4272-a500-6e7e48247d26 with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.629 +05:30 [INF] Internal User 977f9d75-a47d-42d6-b57c-db0fc0ad885d with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.632 +05:30 [ERR] Error occured at Internal User c521515f-8254-4b9a-8757-bda201f9bc87 with Role ID 2 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserInternals_Users_UserId". The conflict occurred in database "Yobber", table "dbo.Users", column 'Id'.
+The statement has been terminated.
+2021-08-04 17:04:14.635 +05:30 [ERR] Error occured at Internal User ed3cdd7e-155d-4b5b-a758-1cc39a6a759b with Role ID 1 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserInternals_Users_UserId". The conflict occurred in database "Yobber", table "dbo.Users", column 'Id'.
+The statement has been terminated.
+2021-08-04 17:04:14.636 +05:30 [ERR] Error occured at Internal User 767fdfd1-bfe8-400f-87eb-bfd0c12a7ade with Role ID 2 with Message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserInternals_Users_UserId". The conflict occurred in database "Yobber", table "dbo.Users", column 'Id'.
+The statement has been terminated.
+2021-08-04 17:04:14.638 +05:30 [INF] Internal User 3d20d2fc-dd92-48e9-88d4-faa440b4dd87 with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.639 +05:30 [INF] Internal User b4e64380-eb9a-43ec-8e2b-24318e65f63a with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.641 +05:30 [INF] Internal User e9ede877-2f62-4922-9eff-8c08c65aaa45 with Role ID 1 registered to database successfully
+2021-08-04 17:04:14.642 +05:30 [INF] Internal User 81b1bd03-53a8-4fdb-81ed-579f2c429fda with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.644 +05:30 [INF] Internal User a30bb625-c689-4d7a-8253-7c26441d533e with Role ID 2 registered to database successfully
+2021-08-04 17:04:14.645 +05:30 [INF] Internal User 45706d4e-7dd1-4f1d-a69a-ca70c8e1a403 with Role ID 2 registered to database successfully

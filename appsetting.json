@@ -1,0 +1,6 @@
+{
+	"ConnectionStrings": {
+		"SqlConnectionSource": "Data Source =DESKTOP-14KKTQP\\SQLEXPRESS;initial catalog=Yobber-Live-Local;Trusted_Connection=yes",
+		"SqlConnectionDestination": "Data Source =DESKTOP-14KKTQP\\SQLEXPRESS;initial catalog=Yobber;Trusted_Connection=yes"
+	}
+}

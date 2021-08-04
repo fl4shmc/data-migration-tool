@@ -1,0 +1,4 @@
+2021-08-01 07:41:05.239 +05:30 [INF] Data queried from source successfully
+2021-08-01 07:41:29.955 +05:30 [INF] Data queried from source successfully
+2021-08-01 07:42:32.615 +05:30 [ERR] Error occured at  with Message: Cannot insert the value NULL into column 'Id', table 'Yobber.dbo.SocialLogins'; column does not allow nulls. INSERT fails.
+The statement has been terminated.

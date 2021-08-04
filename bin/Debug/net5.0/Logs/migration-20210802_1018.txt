@@ -1,0 +1,2 @@
+2021-08-02 10:18:53.634 +05:30 [INF] Data queried from source successfully
+2021-08-02 10:20:28.592 +05:30 [INF] UserCandidate with ID 2368bde8-c38d-485f-98c2-00002281500c registered to database successfully

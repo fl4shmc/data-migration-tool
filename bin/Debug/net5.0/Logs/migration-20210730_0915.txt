@@ -1,0 +1,3 @@
+2021-07-30 09:15:50.664 +05:30 [INF] Data queried from source successfully
+2021-07-30 09:19:31.955 +05:30 [INF] User Ester Nilheim with ID 8bc538cf-bb74-452e-9da8-000d4f7c8748 registered to database successfully
+2021-07-30 09:21:38.129 +05:30 [INF] User daniela ecer with ID d2b22895-51d4-4acd-9da7-00517b62c5e9 registered to database successfully

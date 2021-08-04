@@ -1,0 +1,2 @@
+2021-08-01 08:31:08.492 +05:30 [INF] Data queried from source successfully
+2021-08-01 08:31:55.055 +05:30 [INF] Social login  with  Email 0005anen@gapp.uddevalla.se and ID  registered to database successfully
